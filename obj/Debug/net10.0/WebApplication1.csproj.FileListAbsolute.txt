@@ -166,3 +166,4 @@ D:\.NET-Projects\WebApplication1\bin\Debug\net10.0\runtimes\osx-x64\native\msalr
 D:\.NET-Projects\WebApplication1\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
 D:\.NET-Projects\WebApplication1\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\.NET-Projects\WebApplication1\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\.NET-Projects\WebApplication1\obj\Debug\net10.0\WebApplication1.sourcelink.json
